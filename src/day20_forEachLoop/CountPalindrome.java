@@ -1,11 +1,14 @@
 package day20_forEachLoop;
 
 public class CountPalindrome {
+    public static void main(String[] args){
+
+    }
 }
 /*
-Write a program that can reverse the second word of the sentence
-            Ex:
-                sentence = "I Love Java";
+write a program that can count how many palindromes in an array of string
+        Ex:
+            {"anna", "level", "Java"};
             output:
-                I evoL Java
+                2
  */
